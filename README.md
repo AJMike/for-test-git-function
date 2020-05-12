@@ -1,9 +1,9 @@
 # only for test git
 
-# Usage
+## Usage
 	python3.7 main_test.py
 
-# env
-Pytorch==1.4
-opencv 4.0
+## env
+- Pytorch==1.4
+- opencv 4.0
 
